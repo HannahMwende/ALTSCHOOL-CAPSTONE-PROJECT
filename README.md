@@ -12,7 +12,7 @@ DataTel needed a way to answer critical business questions, including:
 * **Revenue operations** — where does data consumption not match what customers are paying?
 
 ## Pipeline Architecture
-![My local image](C:\Users\PC\Downloads\ChatGPT Image Jun 16, 2026, 11_08_03 PM.png
+(![Architecture](image.png)
 )
 
 ## Tech Stack
