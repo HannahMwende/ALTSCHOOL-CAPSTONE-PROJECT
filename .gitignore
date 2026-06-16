@@ -2,4 +2,15 @@
 env/
 data/
 logs/
-images/
+*.png
+*.log
+*.tmp
+*.bak
+.DS_Store
+node_modules/
+dist/
+build/
+coverage/
+.idea/
+.vscode/
+*.swp
