@@ -12,7 +12,7 @@ DataTel needed a way to answer critical business questions, including:
 * **Revenue operations** — where does data consumption not match what customers are paying?
 
 ## Pipeline Architecture
-![Architecture](image.png)
+![Architecture](data\image.png)
 
 
 ## Tech Stack
